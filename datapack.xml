@@ -1,5 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml version="1.0" encoding="UTF-8" ?>
 <PackData
+    basePack="http://example.com/basepackurl.xml"
     name="Muxammadjon Uralov - Inter Milan"
-    desc="Custom Soccer Manager Data Pack">
+    desc="Custom pack featuring Muxammadjon Uralov">
+
+    <PlayerData>
+        <!-- Your player entry will go here once we verify the player ID. -->
+    </PlayerData>
+
 </PackData>
